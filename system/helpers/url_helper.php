@@ -49,7 +49,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
 // ------------------------------------------------------------------------
 
-if ( ! function_exists('site_url'))
+if ( !function_exists('site_url'))
 {
 	/**
 	 * Site URL
